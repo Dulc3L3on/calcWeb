@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/09/2020, 12:04:20
+    Author     : phily
+*/
+
+.botonOperacion{
+    
+    background-color: lightsteelblue;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+    height: 15px;
+    width: 20px;
+}
+
+
+
